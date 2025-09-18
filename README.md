@@ -1,2 +1,2 @@
 # Projekty
-Webová aplikace na statický web pro kebabáře.
+Webová aplikace na statický web pro kebab.
